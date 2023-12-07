@@ -1,0 +1,16 @@
+<?php echo     /   	<?=
+super global variable  $_GET   (use for insert data in search var)
+htmlspecialchars  (use for inserting limit)
+
+seperation of concern (rule)
+require "index.php"  (use code from index.php)
+
+var_dump (display array with length)
+print_r (display array simple)
+
+die()   (all coke will not work below this function)
+
+
+ternary operator
+---------------------
+true ? "do smth" : "do smth"
